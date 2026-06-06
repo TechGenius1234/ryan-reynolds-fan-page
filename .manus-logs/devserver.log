@@ -1,0 +1,13 @@
+[2026-06-06T18:47:21.827Z] Starting dev server with command: pnpm run dev
+[2026-06-06T18:47:27.973Z] > ryan-reynolds-fan-page@1.0.0 dev /home/ubuntu/ryan-reynolds-fan-page
+[2026-06-06T18:47:27.973Z] > vite --host
+[2026-06-06T18:47:28.223Z] VITE v7.1.9  ready in 226 ms
+[2026-06-06T18:47:28.223Z] ➜  Local:   http://localhost:3000/
+[2026-06-06T18:47:28.223Z] ➜  Network: http://169.254.0.21:3000/
+[2026-06-06T18:52:21.057Z] 6:52:21 PM [vite] (client) page reload index.html
+[2026-06-06T19:05:08.602Z] 7:05:08 PM [vite] vite.config.ts changed, restarting server...
+[2026-06-06T19:05:08.603Z] 7:05:08 PM [vite] (client) page reload index.html
+[2026-06-06T19:05:08.610Z] 7:05:08 PM [vite] server restarted.
+[2026-06-06T19:05:08.610Z] ➜  Local:   http://localhost:5173/
+[2026-06-06T19:05:08.610Z] ➜  Network: http://169.254.0.21:5173/
+[2026-06-06T19:05:19.509Z] 7:05:19 PM [vite] (client) page reload index.html

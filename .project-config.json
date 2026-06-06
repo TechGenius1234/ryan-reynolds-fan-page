@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663735779967/Gc8YDXYJyJ24ZtxpAZSHvE",
+    "access_key_id": "ASIAZV3A2ECZIYN65MD3",
+    "secret_access_key": "KX/CV+JyPG8sVUzlc7Q+eoNV1uox+kNCi6XjvZI1",
+    "session_token": "IQoJb3JpZ2luX2VjEMP//////////wEaCXVzLWVhc3QtMSJGMEQCIGi0Zrn+uwJqUU7TPG2BRUtu26QKlATxWOzdj5F+0FrlAiByewdDJdRJeoDz3jgGp2ReoBhu3kyoGB36C/8Uz+B01Sr/AwiM//////////8BEAQaDDY2NTM4NjA5ODg2NiIMMdW175DzsXenYWK0KtMDePDoVPnEvsj+eMbgRbwS01Ci0G/W+UK/HVOZyQKAvGdLRUeWevYFqznvNilH7061+1mY0F0PfQ1FWxnjPi3vdcr/cPVj1II+keXDd1Dd5mi6NjLNFc7bn+tAr58PIaq7Cd/N3eUQbgLhwLAaFBLOZIy+6CDmhuNqCzWM5zDNqjsWc3qHP5WM1ekpzd01YiPfXqzQCJQSYkafsVPudrVNoU+/0u5/Zr/BoTSZFJceUwBTliIW4aDI5a+iLTnO+yt4TErE0ZZYFUWOVb992NBa2kFG+ipI6I77e8vZF5BpE3RpIRFFg8REfUIL+Bg0milDiX7f6oUeaebJwlIW5DnaQPA/xxzJGBRJ6KQHZ3OHlbEOMDzCLzeZsD4dFHZxfho2NsM1rF6AYagiy7BZmHcTE950q/B2qCfngrVDYfOX2Jy0MareMCEy1N/NNqBNsAQnSditEwA8BPxQsB3oLkwn6FXyKWvBPL2IiKfFwVdh7D3eNkJm7gmKuy/8q4YbNcGfcTIIx+FB1nW0rL6qjxsHrIi3c0NEbToYPQUcjUirxbUb6HH9ZkHSHhsgwcHIK4Y/+Bfkoom5OHmaW0I2UeF3n7khSpkfEMdhcW6ialNtxFHDCi8wpdaR0QY6ngEcLUDino2P8yckU/lhtNkngjgXGgRSjBE9M6IyXlofFtT9pzknVooPbRaPU8cw4o9wmw2bPMGQXuI+Rdee8PamvLBtNV01U4E40c4xP284PtjZCZE3Ha1UJ6Z++hVntBPLpk46VDcJi/98SfyMIyYL29byv0C5dNCmfOTvpQgN/DH0s2zx3VGr4plUnQTUNLuBl2fhBbR2sZHm1yFXnw==",
+    "expiration": "2026-06-07T06:47:01.000Z"
+  },
+  "name": "ryan-reynolds-fan-page",
+  "path": "/home/ubuntu/ryan-reynolds-fan-page",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "5zqdqBG7P7JiAT7cFhYWA3",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "gtQxc49LBcccfdxpyRBL3v",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Evan Degroot",
+    "OWNER_OPEN_ID": "jrxXwUdFUwJZJwgJxH2ASH",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "dc1dd4fe-d3c4-4cf5-9885-fd7ef686e1d0",
+    "VITE_APP_ID": "Gc8YDXYJyJ24ZtxpAZSHvE",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Ryan Reynolds Fan Page",
+    "VITE_FRONTEND_FORGE_API_KEY": "7ru7duKsBKL6ZNh2B9y4FR",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
